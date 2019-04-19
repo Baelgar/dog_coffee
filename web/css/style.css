@@ -1,0 +1,17 @@
+.news{
+    color: #0000F0;
+}
+
+.thumbnail{
+    width: 600px;
+    height: 480px;
+}
+
+.thumbnail img{
+    max-width: 100%;
+}
+
+.col-md-4{
+    margin: 0 auto;
+    padding: 5px;
+}
